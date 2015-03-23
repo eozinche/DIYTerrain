@@ -1,6 +1,8 @@
-# diyterrain
+# DIY Terrain
 DIY Terrain is an application that allows users to design and simulate their own personalized landscape.
 Users can visually demonstrate their terrain design in different views using functions such as view modes, colors, and height scales. A user come to start with a default flat mesh surface and rub with a brush to add any topographical forms and visual appearances to the selected area.
+
+<img src="http://static1.squarespace.com/static/54ff5dc1e4b0bafce692fc96/550b060fe4b0afd8058b43c2/550b0616e4b0afd8058b43ef/1426785815148/7_.jpg" alt="Terrain Section">
 
 Different brush options allow a user to create geographical features from mountains to valleys with a certain depth.This application is expected to alter the limit of architectural design process which generally starts from analyzing unchangeable existing topology of the site, by giving a chance of simulating each user’s personalized landscape.
 
